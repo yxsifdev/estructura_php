@@ -1,0 +1,8 @@
+<?php include("db/connect.php"); ?>
+<?php include("templates/header.php"); ?>
+
+<div class="">
+    <h1>Estructura</h1>
+</div>
+
+<?php include("templates/footer.php"); ?>
